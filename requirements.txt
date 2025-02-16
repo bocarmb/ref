@@ -1,75 +1,75 @@
-altair==5.5.0
-attrs==25.1.0
-blinker==1.9.0
-Brotli @ file:///C:/b/abs_c415aux9ra/croot/brotli-split_1736182803933/work
-cachetools==5.5.1
-certifi @ file:///C:/b/abs_8a944p1_gn/croot/certifi_1738623753421/work/certifi
-charset-normalizer @ file:///croot/charset-normalizer_1721748349566/work
-click @ file:///C:/b/abs_f9ihnt72pu/croot/click_1698129847492/work
-colorama @ file:///C:/b/abs_a9ozq0l032/croot/colorama_1672387194846/work
-et_xmlfile==2.0.0
-filelock @ file:///C:/b/abs_f2gie28u58/croot/filelock_1700591233643/work
-fsspec @ file:///C:/b/abs_0428jj7flh/croot/fsspec_1736274691837/work
-gitdb==4.0.12
-GitPython==3.1.44
-gmpy2 @ file:///C:/b/abs_d8ki0o0h97/croot/gmpy2_1738085498525/work
-huggingface_hub==0.28.1
-idna==3.10
-inquirerpy==0.3.4
-Jinja2 @ file:///C:/b/abs_10zs3i4lof/croot/jinja2_1737760123028/work
-joblib @ file:///C:/b/abs_f4b98l6lgk/croot/joblib_1718217224240/work
-jsonschema==4.23.0
-jsonschema-specifications==2024.10.1
-markdown-it-py==3.0.0
-MarkupSafe @ file:///C:/b/abs_a0ma7ge0jc/croot/markupsafe_1738584052792/work
-mdurl==0.1.2
-mkl-service==2.4.0
-mkl_fft @ file:///C:/Users/dev-admin/mkl/mkl_fft_1730823082242/work
-mkl_random @ file:///C:/Users/dev-admin/mkl/mkl_random_1730822522280/work
-mpmath @ file:///C:/b/abs_7833jrbiox/croot/mpmath_1690848321154/work
-narwhals==1.26.0
-networkx @ file:///C:/b/abs_3bxnu56g9d/croot/networkx_1717597507456/work
-numpy @ file:///C:/b/abs_0123vcxhf8/croot/numpy_and_numpy_base_1725470331966/work/dist/numpy-2.0.1-cp39-cp39-win_amd64.whl#sha256=afd4c53d4b548db7b600782fd4368ad419de0533ac199a031101a0b99df7eaf7
-openpyxl==3.1.5
-packaging @ file:///C:/b/abs_3by6s2fa66/croot/packaging_1734472138782/work
-pandas==2.2.3
-pfzy==0.3.4
-pillow @ file:///C:/b/abs_b50vowcrzo/croot/pillow_1738010273782/work
-prompt_toolkit==3.0.50
-protobuf==4.25.3
-pyarrow==19.0.0
-pydeck==0.9.1
-Pygments==2.19.1
-PySocks @ file:///C:/ci/pysocks_1605307512533/work
-python-dateutil==2.9.0.post0
-pytz==2025.1
-PyYAML @ file:///C:/b/abs_14xkfs39bx/croot/pyyaml_1728657968772/work
-referencing==0.36.2
-regex @ file:///C:/b/abs_d785r851h6/croot/regex_1736542205858/work
-requests @ file:///C:/b/abs_c3508vg8ez/croot/requests_1731000584867/work
-rich==13.9.4
-rpds-py==0.22.3
-sacremoses==0.0.43
-safetensors @ file:///C:/Miniconda/envs/test/conda-bld/safetensors_1696589597179/work/bindings/python
-scikit-learn==1.6.1
-scipy==1.13.1
-six @ file:///tmp/build/80754af9/six_1644875935023/work
-smmap==5.0.2
-streamlit==1.42.0
-sympy==1.13.1
-tenacity==9.0.0
-threadpoolctl==3.5.0
-tokenizers==0.13.0.dev0
-toml==0.10.2
-torch==2.6.0
-torchaudio==2.5.1
-torchvision==0.20.1
-tornado==6.4.2
-tqdm @ file:///C:/b/abs_0eh9b6xugj/croot/tqdm_1738945553987/work
-transformers==4.33.3
-typing_extensions @ file:///C:/b/abs_0ffjxtihug/croot/typing_extensions_1734714875646/work
-tzdata==2025.1
-urllib3 @ file:///C:/b/abs_7bst06lizn/croot/urllib3_1737133657081/work
-watchdog==6.0.0
-wcwidth==0.2.13
-win-inet-pton @ file:///C:/ci/win_inet_pton_1605306162074/work
+altair
+attrs
+blinker
+Brotli 
+cachetools
+certifi 
+charset-normalizer 
+click 
+colorama 
+et_xmlfile
+filelock 
+fsspec 
+gitdb
+GitPython
+gmpy2 
+huggingface_hub
+idna
+inquirerpy
+Jinja2 
+joblib 
+jsonschema
+jsonschema-specifications
+markdown-it-py
+MarkupSafe 
+mdurl
+mkl-service
+mkl_fft 
+mkl_random 
+mpmath 
+narwhals
+networkx 
+numpy 
+openpyxl
+packaging 
+pandas
+pfzy
+pillow 
+prompt_toolkit
+protobuf
+pyarrow
+pydeck
+Pygments
+PySocks 
+python-dateutil
+pytz
+PyYAML 
+referencing
+regex 
+requests 
+rich
+rpds-py
+sacremoses
+safetensors 
+scikit-learn
+scipy
+six 
+smmap
+streamlit
+sympy
+tenacity
+threadpoolctl
+tokenizers
+toml
+torch
+torchaudio
+torchvision
+tornado
+tqdm 
+transformers
+typing_extensions 
+tzdata
+urllib3 
+watchdog
+wcwidth
+win-inet-pton 
